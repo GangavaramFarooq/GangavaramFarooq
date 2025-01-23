@@ -1,4 +1,4 @@
-# Welcome to Gangavaram Farooq's Data Analytics Journey
+# 🌐Welcome to Gangavaram Farooq's Data Analytics Journey
 
 Hi there! 👋 I'm **Gangavaram Farooq**, a passionate Data Analyst with a knack for transforming data into meaningful insights and actionable strategies. This is a snapshot of my journey through data analytics, innovation, and continuous learning! 🌟
 
